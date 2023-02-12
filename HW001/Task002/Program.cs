@@ -28,6 +28,10 @@ class Program
         {
             Console.WriteLine("The value {0} is greater than {1}", a, b);
         }
+        else if (a == b)
+        {
+            Console.WriteLine("Both values are equal.");
+        }
         else
         {
             Console.WriteLine("The value {0} is greater than {1}", b, a);
