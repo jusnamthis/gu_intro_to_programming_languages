@@ -1,6 +1,11 @@
 ﻿namespace Task002;
 class Program
 {
+    /*
+    * Напишите программу, которая на вход принимает два числа и выдаёт, 
+    * какое число большее, а какое меньшее.
+    */
+
     static void Main(string[] args)
     {
         ShowTheLargerOfTwo();
